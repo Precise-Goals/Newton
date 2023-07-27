@@ -263,7 +263,7 @@ if __name__ == "__main__":
                         print(songs)
                         os.startfile(os.path.join(music_dir, songs[1]))
                     elif 'thought' in query:          
-                        with open ('Coding/projects/Newton/quotes.json','r') as file:
+                        with open ('Coding/projects/Nutan/quotes.json','r') as file:
                             quotedata = json.load(file)
                             quotes = quotedata['Quotes']
                             randomise1 = random.choice(quotes)
@@ -329,7 +329,7 @@ if __name__ == "__main__":
                     #          Greeting and talk with Newton
 
                     elif query in query:
-                        with open('Coding/projects/Newton/chats.json', 'r') as chats:
+                        with open('Coding/projects/Nutan/chats.json', 'r') as chats:
                             chatdat = json.load(chats)
                             querye = chatdat["Chats"]
 
