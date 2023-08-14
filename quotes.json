@@ -16,140 +16,234 @@
             "quote": "As a profession, graphic designers have been shamefully remiss or ineffective about plying their craft for social or political betterment."
         },
         {
-            "number":"4",
-            "author":"- Abraham Lincoln",
-            "quote":"When I am getting ready to reason with a man, I spend one-third of my time thinking about myself and what I am going to say and two-thirds about him and what he is going to say."
+            "number": "4",
+            "author": "- Abraham Lincoln",
+            "quote": "When I am getting ready to reason with a man, I spend one-third of my time thinking about myself and what I am going to say and two-thirds about him and what he is going to say."
         },
         {
-            "number":"5",
-            "author":"general douglas",
-            "quote":"A general is just as good or just as bad as the troops under his command make him."
+            "number": "5",
+            "author": "general douglas",
+            "quote": "A general is just as good or just as bad as the troops under his command make him."
         },
         {
-            "number":"6",
-            "author":"general stanley",
-            "quote":"There's likely a place in paradise for people who tried hard, but what really matters is succeeding. If that requires you to change, that's your mission."
+            "number": "6",
+            "author": "general stanley",
+            "quote": "There's likely a place in paradise for people who tried hard, but what really matters is succeeding. If that requires you to change, that's your mission."
         },
         {
-            "number":"7",
-            "author":"Winston Churchill",
-            "quote":"Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen."
+            "number": "7",
+            "author": "Winston Churchill",
+            "quote": "Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen."
         },
         {
-            "number":"8",
-            "author":"Ronald Reagen",
-            "quote":"The greatest leader is not necessarily the one who does the greatest things. He is the one that gets the people to do the greatest things."
+            "number": "8",
+            "author": "Ronald Reagen",
+            "quote": "The greatest leader is not necessarily the one who does the greatest things. He is the one that gets the people to do the greatest things."
         },
         {
-            "number":"9",
-            "author":"APJ Abdul Kalam Sir",
-            "quote":"You have to dream before your dreams can come true."
+            "number": "9",
+            "author": "APJ Abdul Kalam Sir",
+            "quote": "You have to dream before your dreams can come true."
         },
         {
-            "number":"10",
-            "author":"Verse From Bhagwad Gita",
-            "quote":"We are kept from our goal not by obstacles but by a clear path to a lesser goal."
+            "number": "10",
+            "author": "Verse From Bhagwad Gita",
+            "quote": "We are kept from our goal not by obstacles but by a clear path to a lesser goal."
         },
         {
-            "number":"11",
-            "author":"Mahabharat",
-            "quote":"Many of life’s failures are people who did not realize how close they were to success when they gave up."
+            "number": "11",
+            "author": "Mahabharat",
+            "quote": "Many of life’s failures are people who did not realize how close they were to success when they gave up."
         },
         {
-            "number":"12",
-            "author":"Sanjaya",
-            "quote":"War causes destruction to all, it is sinful, it creates hell, it gives the same result in victory and defeat alike."
+            "number": "12",
+            "author": "Sanjaya",
+            "quote": "War causes destruction to all, it is sinful, it creates hell, it gives the same result in victory and defeat alike."
         },
         {
-            "number":"13",
-            "author":"Ashwasthwama",
-            "quote":"Passion, engagement, skill and policy – these are the means to accomplish objectives."
+            "number": "13",
+            "author": "Ashwasthwama",
+            "quote": "Passion, engagement, skill and policy – these are the means to accomplish objectives."
         },
         {
-            "number":"14",
-            "author":"Bhisma",
-            "quote":"Nobody is nobody’s friend, nobody is nobody’s wellwisher, persons become friends or enemies only from motives of interest."
+            "number": "14",
+            "author": "Bhisma",
+            "quote": "Nobody is nobody’s friend, nobody is nobody’s wellwisher, persons become friends or enemies only from motives of interest."
         },
         {
-            "number":"15",
-            "author":"Mahabharat",
-            "quote":"No one who does good work will ever come to a bad end, either here or in the world to come"
+            "number": "15",
+            "author": "Mahabharat",
+            "quote": "No one who does good work will ever come to a bad end, either here or in the world to come"
         },
         {
-            "number":"16",
-            "author":"Mahabharat",
-            "quote":"No one who does good work will ever come to a bad end, either here or in the world to come"
+            "number": "16",
+            "author": "Aristotle",
+            "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit."
         },
         {
-            "number":"17",
-            "author":"Mahabharat",
-            "quote":"No one who does good work will ever come to a bad end, either here or in the world to come"
+            "number": "17",
+            "author": "Eleanor Roosevelt",
+            "quote": "The future belongs to those who believe in the beauty of their dreams."
         },
         {
-            "number":"18",
-            "author":"Mahabharat",
-            "quote":"No one who does good work will ever come to a bad end, either here or in the world to come"
+            "number": "18",
+            "author": "Helen Keller",
+            "quote": "The only thing worse than being blind is having sight but no vision."
         },
         {
-            "number":"19",
-            "author":"Mahabharat",
-            "quote":"No one who does good work will ever come to a bad end, either here or in the world to come"
+            "number": "19",
+            "author": "Walt Disney",
+            "quote": "All our dreams can come true, if we have the courage to pursue them."
         },
         {
-            "number":"20",
-            "author":"Mahabharat",
-            "quote":"No one who does good work will ever come to a bad end, either here or in the world to come"
+            "number": "20",
+            "author": "Maya Angelou",
+            "quote": "If you don't like something, change it. If you can't change it, change your attitude."
         },
         {
-            "number":"21",
-            "author":"Mahabharat",
-            "quote":"No one who does good work will ever come to a bad end, either here or in the world to come"
+            "number": "21",
+            "author": "Nelson Mandela",
+            "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall."
         },
         {
-            "number":"22",
-            "author":"Mahabharat",
-            "quote":"No one who does good work will ever come to a bad end, either here or in the world to come"
+            "number": "22",
+            "author": "Oprah Winfrey",
+            "quote": "The biggest adventure you can take is to live the life of your dreams."
         },
         {
-            "number":"23",
-            "author":"Mahabharat",
-            "quote":"No one who does good work will ever come to a bad end, either here or in the world to come"
+            "number": "23",
+            "author": "Steve Jobs",
+            "quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work."
         },
         {
-            "number":"24",
-            "author":"Mahabharat",
-            "quote":"No one who does good work will ever come to a bad end, either here or in the world to come"
+            "number": "24",
+            "author": "Hermann Hesse",
+            "quote": "Some of us think holding on makes us strong, but sometimes it is letting go."
         },
         {
-            "number":"25",
-            "author":"Mahabharat",
-            "quote":"No one who does good work will ever come to a bad end, either here or in the world to come"
+            "number": "25",
+            "author": "Albert Einstein",
+            "quote": "Life is like riding a bicycle. To keep your balance, you must keep moving."
         },
         {
-            "number":"26",
-            "author":"Mahabharat",
-            "quote":"No one who does good work will ever come to a bad end, either here or in the world to come"
+            "number": "26",
+            "author": "Eleanor Roosevelt",
+            "quote": "The future belongs to those who believe in the beauty of their dreams."
         },
         {
-            "number":"27",
-            "author":"Mahabharat",
-            "quote":"No one who does good work will ever come to a bad end, either here or in the world to come"
+            "number": "27",
+            "author": "Helen Keller",
+            "quote": "The only thing worse than being blind is having sight but no vision."
         },
         {
-            "number":"28",
-            "author":"Mahabharat",
-            "quote":"No one who does good work will ever come to a bad end, either here or in the world to come"
+            "number": "28",
+            "author": "Walt Disney",
+            "quote": "All our dreams can come true, if we have the courage to pursue them."
         },
         {
-            "number":"29",
-            "author":"Mahabharat",
-            "quote":"No one who does good work will ever come to a bad end, either here or in the world to come"
+            "number": "29",
+            "author": "Maya Angelou",
+            "quote": "If you don't like something, change it. If you can't change it, change your attitude."
         },
         {
-            "number":"30",
-            "author":"Mahabharat",
-            "quote":"No one who does good work will ever come to a bad end, either here or in the world to come"
+            "id": "32",
+            "author": "Ramayana",
+            "quote": "सत्यमेव जयते नानृतम्।"
+        },
+        {
+            "id": "33",
+            "author": "Mahabharata",
+            "quote": "जैसी साधना, वैसा ही फल।"
+        },
+        {
+            "id": "34",
+            "author": "Sanskrit Proverb",
+            "quote": "सत्यं ब्रूयात् प्रियं ब्रूयात्।"
+        },
+        {
+            "id": "35",
+            "author": "Ramayana",
+            "quote": "श्रद्धावान लभते ज्ञानम्।"
+        },
+        {
+            "id": "36",
+            "author": "Mahabharata",
+            "quote": "साहस स्वाभाविक रूप से अंतर्निहित होता है।"
+        },
+        {
+            "id": "37",
+            "author": "Sanskrit Proverb",
+            "quote": "यथा पिण्डे तथा ब्रह्माण्डे।"
+        },
+        {
+            "id": "38",
+            "author": "Ramayana",
+            "quote": "कर्मयोगी हि सततं वर्तते।"
+        },
+        {
+            "id": "39",
+            "author": "Mahabharata",
+            "quote": "संयमिनो योगविद्यान्न नैव मृत्युभयं वर्तते।"
+        },
+        {
+            "id": "40",
+            "author": "Sanskrit Proverb",
+            "quote": "विद्या ददाति विनयं।"
+        },
+        {
+            "id": "41",
+            "author": "Ramayana",
+            "quote": "संतोषम् परमं सुखम्।"
+        },
+        {
+            "id": "42",
+            "author": "Mahabharata",
+            "quote": "शान्ति: सुखस्य मूलम्।"
+        },
+        {
+            "id": "43",
+            "author": "Sanskrit Proverb",
+            "quote": "अन्नं न परं दैवं।"
+        },
+        {
+            "id": "44",
+            "author": "Ramayana",
+            "quote": "धर्मो रक्षति रक्षितः।"
+        },
+        {
+            "id": "45",
+            "author": "Mahabharata",
+            "quote": "आचार्य: परमो धर्मः।"
+        },
+        {
+            "id": "46",
+            "author": "Sanskrit Proverb",
+            "quote": "आपदामपहर्तारम्।"
+        },
+        {
+            "id": "47",
+            "author": "Ramayana",
+            "quote": "अहिंसा परमो धर्मः।"
+        },
+        {
+            "id": "48",
+            "author": "Mahabharata",
+            "quote": "विद्या ददाति विनयं।"
+        },
+        {
+            "id": "49",
+            "author": "Sanskrit Proverb",
+            "quote": "सत्यमेव जयते नानृतम्।"
+        },
+        {
+            "id": "50",
+            "author": "Ramayana",
+            "quote": "जैसी साधना, वैसा ही फल।"
+        },
+        {
+            "id": "51",
+            "author": "Mahabharata",
+            "quote": "सत्यं ब्रूयात् प्रियं ब्रूयात्।"
         }
-
     ]
 }
