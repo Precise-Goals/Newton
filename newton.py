@@ -353,6 +353,9 @@ if __name__ == "__main__":
                         break
                     break
         else:
+            print("Password Error")
+            speak("Password Error")
+            speak("Try Again By restarting me...")
             sys.exit()
 
 
